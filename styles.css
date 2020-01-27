@@ -1,6 +1,5 @@
 header {
-    background-color: grey;
-    color: white;
+    background-color: yellowgreen;
 }
 
 footer {
@@ -15,4 +14,28 @@ margin-top: 10px;
 
 .mt-5 {
 margin-top: 5px;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-wh {
+    color: white;
+}
+
+.txt-dblue {
+    color: darkblue;
+}
+
+.bg-dblue {
+    background-color: darkblue
+}
+
+.bg-yellowgreen {
+    background-color: yellowgreen;
 }
